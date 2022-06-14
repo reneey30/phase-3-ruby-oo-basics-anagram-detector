@@ -13,6 +13,7 @@ def match(array)
     }
   end
 
+  #word sort
   def word_sort word
     word.split("").sort
   end
